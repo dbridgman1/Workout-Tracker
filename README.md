@@ -7,7 +7,7 @@
  
 <br>
 
-Link to Deployment: [Burger Application]()
+Link to Deployment: [Workout Tracker Application]()
 
 ## Fucntionality
 

@@ -2,6 +2,7 @@
 
 ## Description
 
+This application allows users to view, create, and track daily workouts. They also can log multiple exercises in a workout on a given day. They can track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, the user can track their distance traveled.
 
 ## Developer
  
